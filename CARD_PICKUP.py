@@ -1,11 +1,6 @@
-# import random
-# friends=["Yash","ADi","Shreshth","Ashmeet","Kanishk","Zuhaib"]
-# # random_no=random.randrange(0,6)
-# # random_name=friends[random_no]
-# # print(random_name)
-fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
-vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
+import random
+friends=["Y","A","S","A","K","Z"]
+# random_no=random.randrange(0,6)
+# random_name=friends[random_no]
+# print(random_name)
 
-dirty_dozen = [fruits, vegetables]
-
-print(dirty_dozen[0])
